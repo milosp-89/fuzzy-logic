@@ -1,4 +1,4 @@
-# A non-standard and main module used for this exercise => scikit-fuzzy/skfuzzy
+# Implementation of a fuzzy logic membership function
 
 Main sources and documentation:
 - https://pypi.org/project/scikit-fuzzy/
