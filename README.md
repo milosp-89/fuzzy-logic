@@ -51,7 +51,7 @@ Next Steps:
 ![output](https://github.com/milosp-89/fuzzy-logic/assets/155644532/652dc8c5-e342-4ad7-9120-b01bdcb926b2)
 
 # Output value after applying function rule (dummy dataset example):
-
+![output_value_rule](https://github.com/milosp-89/fuzzy-logic/assets/155644532/0e98a8e7-dcde-4d90-91c6-dad1304ed7a5)
 
 # Input file before implementation (dummy dataset example):
 ![input_file](https://github.com/milosp-89/fuzzy-logic/assets/155644532/8d4d8791-fe45-4447-815f-83bf28639503)
