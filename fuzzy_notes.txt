@@ -41,6 +41,3 @@ change this only if new rules are applied!!!
 
 7. save_file(file_name, format): ONCE
 specify name of the file and format as .csv or .xlsx but only once
-
-
-
