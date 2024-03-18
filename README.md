@@ -24,6 +24,12 @@ Environment setup (used for this project):
 - Anaconda version: 23.5.2
 - Jupyter Notebook version: 7.0.8
 
+Next Steps:
+- Refine parameters, variables, and functions, both for input and output (fine-tuning)
+- Implement parallelism using multiprocessing to leverage all CPU cores, aiming to accelerate the code execution
+The current runtime is approximately 4.0 minutes. However, with the addition of more rules and a growing dataset,
+implementation becomes necessary to maintain performance over time
+
 # Status setup:
 ![status](https://github.com/milosp-89/fuzzy-logic/assets/155644532/0be989c8-7797-4daf-b825-157f4f75f9d6)
 
