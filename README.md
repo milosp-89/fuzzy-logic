@@ -11,7 +11,7 @@ Additional sources (theory):
 
 Main module and pip installation:
 - scikit-fuzzy==0.4.2
-NOTE => use pip/!pip/pip3 install scikit-fuzzy for installation
+- NOTE => use pip/!pip/pip3 install scikit-fuzzy for installation
 
 Other modules used:
 - pandas for dataframe manipulation
