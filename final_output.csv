@@ -1,0 +1,4 @@
+Region,ISO3,month,Status,Trend,Peak,Indicator family,rules_passed,Crisis dynamics value,Crisis dynamics category,Severity of the crisis value,Severity of the crisis category,Scale of the crisis value,Scale of the crisis category,Projected conflict risk value,Projected conflict risk category
+Region 1,AFG,01-11-23,185.3809524,0.019659344,644.3333333,Risk of aggravation,YES,,,,,,,37.50262126749181,pre
+Region 4,YEM,01-07-23,45.71428571,-0.287840868,907.1428571,Fatalities,YES,,,87.37731080097355,protracted,,,,
+Region 4,YEM,01-01-24,45.71428571,-0.287840868,907.1428571,People in need 2,YES,,,,,87.37731080097355,protracted,,
