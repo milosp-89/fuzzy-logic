@@ -1,4 +1,4 @@
-A non-standard and main module used for this exercise: scikit-fuzzy/skfuzzy
+# A non-standard and main module used for this exercise => scikit-fuzzy/skfuzzy
 
 Main sources and documentation:
 - https://pypi.org/project/scikit-fuzzy/
