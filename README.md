@@ -23,3 +23,7 @@ Environment setup (used for this project):
 - Python version: 3.8.18
 - Anaconda version: 23.5.2
 - Jupyter Notebook version: 7.0.8
+
+# Status setup:
+![status](https://github.com/milosp-89/fuzzy-logic/assets/155644532/0be989c8-7797-4daf-b825-157f4f75f9d6)
+
