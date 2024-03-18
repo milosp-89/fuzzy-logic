@@ -18,13 +18,14 @@ Additional sources (theory):
 
 Main module and pip installation:
 - scikit-fuzzy==0.4.2
-- NOTE => use pip/!pip/pip3 install scikit-fuzzy for installation
 
 Other modules used:
 - pandas for dataframe manipulation
 - numpy for additional dataframe manipulations
 - warnings to avoid unnecessary warning messages
 - matplotlib for visualization of graphs
+- multiprocessing (will be included in some point) for
+  dealing with performance over the time
 
 Environment setup (used for this project):
 - Python version: 3.8.18
@@ -33,9 +34,9 @@ Environment setup (used for this project):
 
 Next Steps:
 - Refine parameters, variables, and functions, both for input and output (fine-tuning)
-- Implement parallelism using multiprocessing to leverage all CPU cores, aiming to accelerate the code execution
-The current runtime is approximately 4.0 minutes. However, with the addition of more rules and a growing dataset,
-implementation becomes necessary to maintain performance over time
+- Implement parallelism using multiprocessing to leverage all CPU cores, aiming to accelerate the code execution.
+  The current runtime is approximately 4.0 minutes, however, with the addition of more rules and a growing dataset,
+  implementation becomes necessary to maintain performance over time
 
 # Status setup (dummy dataset example):
 ![status](https://github.com/milosp-89/fuzzy-logic/assets/155644532/0be989c8-7797-4daf-b825-157f4f75f9d6)
