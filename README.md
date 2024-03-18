@@ -1,5 +1,9 @@
 # Implementation of a fuzzy logic membership function
 
+About:
+Application of a fuzzy logic membership function involves defining a mathematical function
+that maps input values to membership degrees in a fuzzy set of uncertainty and ambiguity
+
 Main sources and documentation:
 - https://pypi.org/project/scikit-fuzzy/
 - https://github.com/scikit-fuzzy/scikit-fuzzy
