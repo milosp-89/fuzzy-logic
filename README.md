@@ -1,8 +1,11 @@
 # Implementation of a fuzzy logic membership function
 
 About:
-- Application of a fuzzy logic membership function involves defining a mathematical function
-  that maps input values to membership degrees in a fuzzy set of uncertainty and ambiguity
+- In the realm of fuzzy logic, the application of a fuzzy logic membership function is foundational
+  to the process of modeling uncertainty and imprecision within a system. At its core, a membership
+  function serves as a bridge between crisp, precise input values and the fuzzy, ambiguous boundaries of a fuzzy set.
+  This mathematical function assigns membership degrees to elements within the universe of discourse,
+  indicating the degree to which each element belongs to the fuzzy set under consideration.
 
 Main sources and documentation:
 - https://pypi.org/project/scikit-fuzzy/
