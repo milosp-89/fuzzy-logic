@@ -44,3 +44,9 @@ implementation becomes necessary to maintain performance over time
 
 # Output value after applying function rule (dummy dataset example):
 ![output_value_rule](https://github.com/milosp-89/fuzzy-logic/assets/155644532/a67c63f7-b83e-42da-bc45-d51efe16990f)
+
+# Input file before implementation (dummy dataset example):
+![input_file](https://github.com/milosp-89/fuzzy-logic/assets/155644532/8d4d8791-fe45-4447-815f-83bf28639503)
+
+# Output file after implementation (dummy dataset example):
+![output_file](https://github.com/milosp-89/fuzzy-logic/assets/155644532/736918f7-7684-4901-a854-fe1cd5673b63)
