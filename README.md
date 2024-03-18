@@ -16,7 +16,7 @@ Additional sources (theory):
 - https://www.youtube.com/watch?v=__0nZuG4sTw&t=781s
 - https://www.youtube.com/watch?v=CBTEVFphv-E
 
-Main module and pip installation:
+Main module:
 - scikit-fuzzy==0.4.2
 
 Other modules used:
@@ -24,8 +24,8 @@ Other modules used:
 - numpy for additional dataframe manipulations
 - warnings to avoid unnecessary warning messages
 - matplotlib for visualization of graphs
-- multiprocessing (will be included in some point) for
-  dealing with performance over the time
+- multiprocessing (will be included at some point) for
+  dealing with performance over time
 
 Environment setup (used for this project):
 - Python version: 3.8.18
