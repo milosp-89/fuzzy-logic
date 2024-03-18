@@ -1,0 +1,46 @@
+Changes:
+
+1. def pivot(): ONCE
+only once at the beginning for function open(file_name, format)
+specify name of the file and format as .csv or .xlsx
+
+2. def antecedent(df_col, min_val = None, max_val = None, step_val = None): NEED
+if there is a need, range of the input variables/functions can be altered
+
+current ranges:
+min, max, step as (max - min) / 100
+
+current membership functions categories:
+poor, average and good for all 3 variables/functions
+
+if called like this:
+status = antecedent("Status")
+trend = antecedent("Trend")
+peak = antecedent("Peak")
+
+it will use default values, but if there is a need to change something
+specify min, max and step value!
+
+3. def consequent(): NEED
+if there is a need, range of the output variable/function can be altered
+
+current range => 0 to 100
+
+4. rule_one(), rule_two(), rule_three(), rule_four(): NEED
+change rule categories if there is a need
+
+5. computation(indicator, rule): NEED
+output category can be changed if needed!
+
+current setup:
+pre <= 40, acute <= 62, protracted <= 88, post <= 100
+probably post will stay the same if the range stays as 0 - 100
+
+6. ind_rule_setup() and execute_rules() function: NEED
+change this only if new rules are applied!!!
+
+7. save_file(file_name, format): ONCE
+specify name of the file and format as .csv or .xlsx but only once
+
+
+

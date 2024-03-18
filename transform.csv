@@ -1,0 +1,25 @@
+Region,ISO3,month,Value,Indicator type,Indicator family
+Region 1,AFG,01-01-24,,Status,Violent events
+Region 1,AFG,01-01-24,,,
+Region 1,,01-01-24,,Peak,Violent events
+Region 4,IRQ,01-12-23,611.4761905,Status,Fatalities
+Region 4,IRQ,01-12-23,-0.256747982,Trend,Fatalities
+Region 4,IRQ,,,Peak,
+Region 2,MLI,01-11-23,185.3809524,,Risk of aggravation
+Region 2,MLI,01-11-23,0.019659344,,Risk of aggravation
+Region 2,MLI,01-11-23,644.3333333,,Risk of aggravation
+Region 3,COL,01-07-23,236.047619,Status,People in need 2
+Region 3,COL,01-07-23,,Trend,People in need 2
+Region 3,COL,01-07-23,36.28571429,Peak,People in need 2
+Region 4,YEM,01-02-23,45.71428571,Status,
+Region 4,YEM,01-02-23,-0.287840868,Trend,
+Region 4,YEM,01-02-23,907.1428571,Peak,
+Region 4,YEM,01-07-23,45.71428571,Status,Fatalities
+Region 4,YEM,01-07-23,-0.287840868,Trend,Fatalities
+Region 4,YEM,01-07-23,907.1428571,Peak,Fatalities
+Region 1,AFG,01-11-23,185.3809524,Status,Risk of aggravation
+Region 1,AFG,01-11-23,0.019659344,Trend,Risk of aggravation
+Region 1,AFG,01-11-23,644.3333333,Peak,Risk of aggravation
+Region 4,YEM,01-01-24,907.1428571,Peak,People in need 2
+Region 4,YEM,01-01-24,45.71428571,Status,People in need 2
+Region 4,YEM,01-01-24,-0.287840868,Trend,People in need 2
