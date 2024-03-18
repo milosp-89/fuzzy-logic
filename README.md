@@ -51,10 +51,10 @@ Next Steps:
 ![output](https://github.com/milosp-89/fuzzy-logic/assets/155644532/652dc8c5-e342-4ad7-9120-b01bdcb926b2)
 
 # Output value after applying function rule (dummy dataset example):
-![output_file](https://github.com/milosp-89/fuzzy-logic/assets/155644532/65ae4023-e728-4238-9385-fd9b2e227731)
+
 
 # Input file before implementation (dummy dataset example):
 ![input_file](https://github.com/milosp-89/fuzzy-logic/assets/155644532/8d4d8791-fe45-4447-815f-83bf28639503)
 
 # Output file after implementation (dummy dataset example):
-![output_file](https://github.com/milosp-89/fuzzy-logic/assets/155644532/736918f7-7684-4901-a854-fe1cd5673b63)
+![output_file](https://github.com/milosp-89/fuzzy-logic/assets/155644532/d9dfea0f-e97f-4298-afca-505d93a5c4ac)
